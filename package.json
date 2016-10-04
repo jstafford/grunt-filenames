@@ -25,7 +25,7 @@
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0",
-    "grunt-jshint-solid": "file:///Users/jstafford/code/grunt-jshint-solid",
+    "grunt-jshint-solid": "git+https://github.com/jstafford/grunt-jshint-solid",
     "jshint-stylish": "^2.2.1",
     "matchdep": "^1.0.1",
     "pre-git": "^3.10.0"
